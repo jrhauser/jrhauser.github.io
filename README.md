@@ -1,6 +1,5 @@
 # JRHAUSER
 
-#### Video Demo: <URL HERE>
 
 #### Description:
 
