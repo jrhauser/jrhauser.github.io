@@ -264,6 +264,12 @@ export default function Layout() {
                   <br />
                   <i>Shift Leader</i>
                 </div>
+                <div className="container w-3/4 mx-auto text-left">
+                  <b className="text-lg">West Virginia University</b>, Morgantown, WV{" "}
+                  <p className="inline float-right">Aug 2023 - Dec 2020 </p>
+                  <br />
+                  <i>Proctor</i>
+                </div>
                 <h6 className="text-lg">ACTIVITES</h6>
                 <div className="container w-3/4 mx-auto text-left">
                   <ul>
